@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
+minimal_mistakes_skin: "dark"
+masthead_title: "builtbykat"
+title: "builtbykat"
+plugins:
+  - jekyll-include-cache
