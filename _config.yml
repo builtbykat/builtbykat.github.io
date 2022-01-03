@@ -1,5 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin: "dark"
+remote_theme: "poole/lanyon"
 masthead_title: "builtbykat"
 title: "builtbykat"
 plugins:
